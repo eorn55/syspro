@@ -1,0 +1,4 @@
+StudentID Name Score
+20311623 yun 90
+20112323 kim 79
+15100900 lee 100
